@@ -6,6 +6,7 @@ It is made with pygame (Python)
 2. Unzip the file if you downloaded it as a zip file
 3. Open FixTheHole.exe
 4. Done!
+
 Note: If the assets folder and the .exe file is not in the same place, it will not work.
 # Social Medias
 [My Youtube](https://youtube.com/pyxldavon)
