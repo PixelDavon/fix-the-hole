@@ -1,5 +1,6 @@
 # fix-the-hole
 I challenged myself to make a game in 1 hour, and this is what i got
+
 It is made with pygame (Python)
 # How to play
 1. Clone this project
